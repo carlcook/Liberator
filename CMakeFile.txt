@@ -1,0 +1,3 @@
+USE_EXTERNAL("marketlink_libs" "x_marketlink_libs")
+USE_EXTERNAL("quark" "x_quark")
+USE_EXTERNAL("common_cpp" "x_common_cpp")
